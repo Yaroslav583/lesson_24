@@ -45,7 +45,7 @@
 
 <script>
 import {mapState} from "pinia";
-import {useAccountStore} from './stores/account.js';
+import {useAccountStore} from '../stores/account.js';
 
 export default {
   props: {

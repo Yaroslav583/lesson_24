@@ -28,10 +28,10 @@
 </template>
 
 <script>
-import TheHeader from './TheHeader.vue';
-import TheSidebar from './TheSidebar.vue';
-import AccountIndex from './AccountIndex.vue';
-import TheFooter from './TheFooter.vue';
+import TheHeader from './components/TheHeader.vue';
+import TheSidebar from './components/TheSidebar.vue';
+import AccountIndex from './components/AccountIndex.vue';
+import TheFooter from './components/TheFooter.vue';
 export default {
   data() {
     return {}

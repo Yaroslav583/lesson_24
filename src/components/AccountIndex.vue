@@ -29,7 +29,7 @@
 
 <script>
 import {mapState} from "pinia";
-import {useAccountStore} from './stores/account.js';
+import {useAccountStore} from '../stores/account.js';
 import AccountForm from "./AccountForm.vue";
 
 export default {
